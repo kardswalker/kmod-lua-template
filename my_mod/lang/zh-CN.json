@@ -1,0 +1,13 @@
+{
+  "name": "我的模组",
+  "description": "kmod 模组的起点。",
+  "settings.verbose.label": "详细日志",
+  "settings.scale.label": "缩放",
+  "settings.mode.label": "模式",
+  "settings.mode.options.low": "低",
+  "settings.mode.options.medium": "中",
+  "settings.mode.options.high": "高",
+  "settings.nick.label": "昵称",
+  "loaded": "{id} v{version} 已加载",
+  "hello": "你好，{name}！"
+}

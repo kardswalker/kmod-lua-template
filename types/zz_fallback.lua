@@ -1,0 +1,4 @@
+---@meta
+-- Placeholder so the template example works before you run `typegen`.
+-- typegen output (Script_Engine.lua) defines the full PlayerController class; LuaLS merges the two. Safe to delete.
+---@class PlayerController : KObject

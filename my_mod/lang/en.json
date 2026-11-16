@@ -1,0 +1,11 @@
+{
+  "settings.verbose.label": "Verbose log",
+  "settings.scale.label": "Scale",
+  "settings.mode.label": "Mode",
+  "settings.mode.options.low": "Low",
+  "settings.mode.options.medium": "Medium",
+  "settings.mode.options.high": "High",
+  "settings.nick.label": "Nickname",
+  "loaded": "{id} v{version} loaded",
+  "hello": "Hello, {name}!"
+}

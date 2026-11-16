@@ -1,0 +1,15 @@
+{
+  "format": 1,
+  "id": "my_mod",
+  "name": "My Mod",
+  "version": "0.1.0",
+  "author": "your name",
+  "description": "A starting point for a kmod mod.",
+  "depends": ["kmod>=0.2.0", "kards>=1.61"],
+  "settings": [
+    { "id": "verbose", "type": "bool",   "label": "Verbose log", "default": false },
+    { "id": "scale",   "type": "number", "label": "Scale", "min": 0.5, "max": 2, "step": 0.25, "default": 1 },
+    { "id": "mode",    "type": "choice", "label": "Mode", "options": ["low", "medium", "high"], "default": "medium" },
+    { "id": "nick",    "type": "string", "label": "Nickname", "default": "Bob", "maxlen": 12 }
+  ]
+}

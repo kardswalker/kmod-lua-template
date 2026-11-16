@@ -1,0 +1,5 @@
+dist/
+types/*
+!types/README.txt
+!types/kmod_api.lua
+!types/zz_fallback.lua
