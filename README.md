@@ -1,6 +1,6 @@
 # kmod mod template
 
-A starting point for a [kmod loader](https://ccb-team.github.io/KMod-Loader-Android/) mod (Lua).
+A starting point for a [kmod loader](https://kardswalker.github.io/kmod-docs/) mod (Lua).
 
 ```
 my_mod/            the mod itself: rename the folder AND the "id" in mod.json (they must match)
@@ -39,4 +39,4 @@ USB), then press **Mods** in the game settings (or type `reload` in the dev cons
 `python tools/pack.py my_mod` writes `dist/my_mod-0.1.0.kmod`. Players put that file into
 `Android/media/com.android1939.kardsapk/kmod/inbox/`; it installs on the next start or when the Mods page opens.
 
-Docs: https://ccb-team.github.io/KMod-Loader-Android/
+Docs: https://kardswalker.github.io/kmod-docs/
